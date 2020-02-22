@@ -1,21 +1,24 @@
-# meituan
+## american-regiment
 
-> 仿美团移动端项目
+> vue-cli2.0仿美团移动端项目
 
-## Build Setup
-
-``` bash
-# install dependencies
+#### 项目运行
+1. 项目初始化(前提是先切换到项目文件所在的盘符）
+```
 npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
 ```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+2. 运行项目
+```
+npm run dev
+```
+
+3. 项目打包
+```
+npm run build
+```
+#### 效果示例：
+![image](https://raw.githubusercontent.com/boleming/american-regiment/master/imgs/american-regiment-gif.gif)
+![image](https://raw.githubusercontent.com/boleming/american-regiment/master/imgs/american-regiment1.png)
+![image](https://raw.githubusercontent.com/boleming/american-regiment/master/imgs/american-regiment2.png)
+![image](https://raw.githubusercontent.com/boleming/american-regiment/master/imgs/american-regiment3.png)
